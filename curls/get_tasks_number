@@ -1,0 +1,2 @@
+curl http://127.0.0.1:5000/rest_api_based/tasks/in_progress/123
+curl http://127.0.0.1:5000/rest_api_based/tasks/counter/123
